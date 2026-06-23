@@ -1,0 +1,13 @@
+company,country,revenue (mil),carbon_emissions,waste_recycled,water_usage,emp_turnover_rate,diversity_board_pct,commu_invest,esg_score
+TechCorp Inc.,USA,1500,55000,1200,80000,0.15,0.3,500000,75.2
+EcoSolutions Ltd.,UK,85,3000,850,15000,1,0.5,100000,92.1
+GlobalBank Corp.,USA,5000,,500,70000,0.2,0.25,1200000,68.9
+AutoMakers Inc.,Germany,2300,120000,2500,250000,0.08,0.2,800000,55.4
+SolarPower Co.,Spain,70,1500,950,12000,0.05,0.4,75000,111.1
+GlobalBank Corp.,USA,5500,85000,700,75000,0.18,0.25,1500000,70.5
+HealthCare Inc.,Japan,1200,25000,,45000,0.12,0.35,300000,82.3
+PharmaGroup SA,France,1800,35000,1800,60000,0.14,0.3,450000,78.6
+FashionTrend Co.,Italy,400,18000,600,25000,,0.45,200000,60.1
+EcoSolutions Ltd.,UK,80,2800,800,14500,0.11,0.48,95000,91.5
+TechCorp Inc.,USA,1650,60000,1350,85000,0.14,0.32,550000,77.8
+EcoSolutions Ltd.,UK,80,2800,800,14500,0.11,0.48,95000,91.5

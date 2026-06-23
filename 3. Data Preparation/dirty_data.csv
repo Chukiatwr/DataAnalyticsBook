@@ -1,0 +1,9 @@
+ID,Name,Age,Gender,Salary,JoinDate
+1,Anna,29,Female,55000,2020-01-15
+1,Anna,29,Female,55000,2020-01-15
+2,Bob,,male,62000,2021-05-20
+3,Cindy,22,female,not available,2019-11-01
+4,  donald   ,29,Male,55000,2020-01-15
+5,emma,130,Female,72000,2022-07-30
+6,Frank,35,Male,68000,
+7,Gordon,NaN,Male,75000,2018-03-12
